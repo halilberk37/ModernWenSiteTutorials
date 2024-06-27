@@ -1,4 +1,4 @@
-# ModernWenSiteTutorials
+ModernWenSiteTutorials
 # Modern Web Site Arayüzleri
 Bu repo, HTML ve CSS kullanarak geliştirilmiş çeşitli modern web site arayüzlerini içermektedir. Bu çalışmalar, Online Tutorials kanalındaki örneklerden ilham alınarak oluşturulmuştur.
 Özellikler
